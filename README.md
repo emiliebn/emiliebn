@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @emiliebn
+- 👀 I’m interested in programming, socializing and humanities.
+- 🌱 I’m currently learning JavaScript.
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/emilie-borve-nylen/)
+- 😄 Pronouns: she/her
